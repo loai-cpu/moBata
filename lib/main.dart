@@ -1,4 +1,4 @@
-import 'package:business_card/ProductWidget.dart';
+import 'package:business_card/components/ProductWidget.dart';
 import 'package:flutter/material.dart';
 
 void main() {
