@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
 import 'add_to_cart_btn.dart';
 
 class ProductWidget extends StatefulWidget {
@@ -52,7 +51,7 @@ class _ProductWidgetState extends State<ProductWidget> {
               Container(
                 margin: EdgeInsets.only(top: 10),
                 constraints:
-                    const BoxConstraints(maxWidth: 120, maxHeight: 120),
+                    const BoxConstraints(maxWidth: 158, maxHeight: 158),
                 child: Container(
                   decoration: const BoxDecoration(),
                   child: Image.asset(
